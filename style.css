@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(195, 210, 219);
+  font-family: "Comfortaa", cursive;
+  font-size: 14px;
+}
+
+.ernesto {
+  color: rgba(5, 35, 133, 0.5);
+  font-size: 28px;
+}
+.tom {
+  color: rgba(5, 35, 133, 0.5);
+  font-size: 28px;
+}
+
+.p-color {
+  color: rgba(8, 158, 163, 0.507);
+  font-size: 18px;
+}
