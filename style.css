@@ -1,7 +1,7 @@
 body {
   background-color: rgb(195, 210, 219);
   font-family: "Comfortaa", cursive;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .ernesto {
@@ -14,6 +14,20 @@ body {
 }
 
 .p-color {
-  color: rgba(8, 158, 163, 0.507);
+  color: rgba(5, 112, 116, 0.507);
   font-size: 18px;
+}
+.che-guevara {
+  width: 800px;
+  position: absolute;
+  margin-left: 100px;
+  margin: top 50px;
+  text-align: justify;
+}
+.tom-hardy {
+  width: 800px;
+  position: relative;
+  margin-left: 1000px;
+  margin: top 50px;
+  text-align: justify;
 }
